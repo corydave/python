@@ -1,0 +1,8 @@
+Name of doggo: a
+Name of doggo: b
+Name of doggo: c
+Name of doggo: DONE
+
+a is awesome.
+b is awesome.
+c is awesome.

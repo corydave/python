@@ -1,0 +1,4 @@
+Guess a number: 22
+Guess a number: 44
+Guess a number: 33
+You guessed in 3 tries.

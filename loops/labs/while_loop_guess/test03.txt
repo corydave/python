@@ -1,0 +1,7 @@
+Guess a number: -9
+Guess a number: 100
+Guess a number: 30
+Guess a number: 32
+Guess a number: 34
+Guess a number: 33
+You guessed in 6 tries.

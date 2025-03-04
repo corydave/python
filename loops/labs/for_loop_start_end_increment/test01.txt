@@ -1,0 +1,4 @@
+Starting point: 3
+Ending point: 12
+Increment by: 4
+3 7 11 

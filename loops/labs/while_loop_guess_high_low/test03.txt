@@ -1,0 +1,18 @@
+Guess a number: -9
+Your guess is too low.
+
+Guess a number: 100
+Your guess is too high.
+
+Guess a number: 30
+Your guess is too low.
+
+Guess a number: 32
+Your guess is too low.
+
+Guess a number: 34
+Your guess is too high.
+
+Guess a number: 33
+
+You guessed in 6 tries.

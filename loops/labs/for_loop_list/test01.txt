@@ -1,0 +1,10 @@
+Name of doggo: Maggie
+Name of doggo: Quinnie
+Name of doggo: Yogi
+Name of doggo: BB-8
+Name of doggo: DONE
+
+Maggie is awesome.
+Quinnie is awesome.
+Yogi is awesome.
+BB-8 is awesome.

@@ -1,0 +1,9 @@
+Enter password: a
+
+Password does not match.
+Enter password: b
+
+Password does not match.
+Enter password: tooManySecrets
+
+Access granted.
