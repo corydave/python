@@ -1,0 +1,6 @@
+How tall would you like the rectangle? 3
+*****
+*   *
+*   *
+*   *
+*****
