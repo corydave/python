@@ -1,0 +1,18 @@
+===== PASSWORD STRENGTH CHECKER =====
+This tool analyzes your password and rates its strength.
+
+Enter a password to check: p@SSword!
+
+===== PASSWORD ANALYSIS =====
+Length: 9 characters
+Uppercase letters: 2
+Lowercase letters: 5
+Digits: 0
+Special characters: 2
+
+Security Score: 75/100
+Strength Assessment: MODERATE
+
+===== IMPROVEMENT SUGGESTIONS =====
+- Use at least 12 characters for better security
+- Add numbers (0-9)

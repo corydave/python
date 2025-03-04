@@ -1,0 +1,17 @@
+===== PASSWORD STRENGTH CHECKER =====
+This tool analyzes your password and rates its strength.
+
+Enter a password to check: 4$DL_dsa_dsf!#
+
+===== PASSWORD ANALYSIS =====
+Length: 14 characters
+Uppercase letters: 2
+Lowercase letters: 6
+Digits: 1
+Special characters: 5
+
+Security Score: 100/100
+Strength Assessment: STRONG
+
+===== IMPROVEMENT SUGGESTIONS =====
+- Excellent password! Remember to use different passwords for different accounts.
