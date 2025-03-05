@@ -1,0 +1,40 @@
+pytest test_firewall.py -vv
+python3 firewall.py < firewall_input.txt > firewall_actual.txt
+pytest test_firewall.py -s < firewall_input.txt
+python3 firewall.py < firewall_input.txt 
+curl https://raw.githubusercontent.com/FLCC-CSC/pyTests/refs/heads/main/test_rectangle.py -o test_rectangle.py
+echo 'export PATH=$PATH:~/.local/bin' >> ~/.bashrc
+pip install pytest
+
+
+
+curl https://raw.githubusercontent.com/FLCC-CSC/pyTests/refs/heads/main/test_rectangle.py
+curl -o https://raw.githubusercontent.com/FLCC-CSC/pyTests/refs/heads/main/test_rectangle.py
+curl https://raw.githubusercontent.com/FLCC-CSC/pyTests/refs/heads/main/test_rectangle.py -0
+curl https://raw.githubusercontent.com/FLCC-CSC/pyTests/refs/heads/main/test_rectangle.py -o
+curl https://raw.githubusercontent.com/FLCC-CSC/pyTests/refs/heads/main/test_rectangle.py -o test_rectangle.py
+ls
+clear
+
+python3 firewall.py 
+touch firewall_input.txt
+python3 firewall.py < firewall_input.txt 
+touch test_firewall.py
+clear
+pytest test_firewall
+pytest test_firewall.py
+pytest test_firewall.py -s
+pytest test_firewall.py -s < firewall_input.txt
+python3 firewall.py < firewall_input.txt > firewall_actual.txt
+touch firewall_expected.txt
+pytest test_firewall.py 
+clear
+pytest test_firewall.py 
+pytest test_firewall.py -s
+pytest test_firewall.py 
+pytest test_firewall.py -s
+pytest test_firewall.py -vv
+pytest test_firewall.py -vv --color=auto
+/bin/python /home/daveghidiu/python/temp/abc.py
+
+curl https://raw.githubusercontent.com/corydave/python/refs/heads/main/loops/labs/for_loop_start_end/input03.txt > input.txt && curl https://raw.githubusercontent.com/corydave/python/refs/heads/main/loops/labs/for_loop_start_end/expected03.txt > expected.txt && python3 for_loop_start_end.py < input.txt > actual.txt && curl https://raw.githubusercontent.com/corydave/python/refs/heads/main/loops/labs/for_loop_start_end/test_for_loop_start_end.py > test_for_loop_start_end.py && pytest test_for_loop_start_end.py -vv
