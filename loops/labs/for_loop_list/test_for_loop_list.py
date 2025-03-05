@@ -1,5 +1,3 @@
-import pytest
-
 class TestInput:
         
     def test_input_from_user(self):
