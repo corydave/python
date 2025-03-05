@@ -2,7 +2,7 @@ import pytest
 
 class TestInput:
         
-    def test_input_from_user(self):
+    def test_input_from_file(self):
 
         with open("actual.txt") as actual_output:
             actual = ''
