@@ -19,10 +19,7 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-# You must create a main() function that calls your function 
-# that runs the loop.
 
-# You also have to make a call to main() in the program.
 
 
 
