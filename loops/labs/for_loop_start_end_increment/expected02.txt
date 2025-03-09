@@ -1,1 +1,1 @@
-hi
+Starting point: Ending point: Increment by: 12 15 18 21 
