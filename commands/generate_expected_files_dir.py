@@ -9,18 +9,20 @@ def generate_expected_files():
 
     command = ''
 
-    for file in files:
-        # print(file)
-        file_name_raw = file.split('.')
-        # print('===== '+ file_name[0])
+    # for file in files:
+    #     # print(file)
+    #     file_name_raw = file.split('.')
+    #     # print('===== '+ file_name[0])
 
-        file_name = file_name_raw[0]
-        print(file_name[:5])
+    #     file_name = file_name_raw[0]
+    #     print(file_name[:5])
 
-        if file_name[:5] == 'input' and 'generation' not in file:
-            command += f'python3 {python_program_name} < {file} > expected{file[5:7]}.txt && '
+    #     if file_name[:5] == 'input' and 'generation' not in file:
+    #         command += f'python3 {python_program_name} < {file} > expected{file[5:7]}.txt && '
 
 
+    for i in range(1,4):
+        command += f'python3 {python_program_name} < input0{i}.txt > expected0{i}.txt && '
 
     print(command[0:len(command)-3])
 
